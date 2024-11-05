@@ -1,8 +1,10 @@
 # Accenture-North-America-Data-Analytics-and-Visualisation-
 Task - 1
-Project Understanding:
-A data analyst sits between the business and the data.
 
+Project Understanding
+
+A data analyst sits between the business and the data.
+	
 One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
 She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
 Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
@@ -12,12 +14,12 @@ Client's Problem that Accenture is tasked to address : The client has reached a 
 Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
 
 
-Task for Data Analyst :
-Analysis of sample data sets with visualizations to understand the popularity of different content categories.
+Task for Data Analyst : Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
 In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
 Task - 2
+
 Often you won’t need all these datasets to find what you’re looking for.
 So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 After Analysis we got data sets needed to complete analysis:
